@@ -4,7 +4,7 @@
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
 
-##Part 0: Setup and Planning 
+## Part 0: Setup and Planning 
 ### SideFX Labs 
 The tutorial requires some nodes from SideFX Labs. If you haven’t already installed it, you can do so at the “Labs/Packages” tab of the Houdini Launcher.  
 
