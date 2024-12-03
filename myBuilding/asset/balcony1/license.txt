@@ -1,0 +1,11 @@
+Model Information:
+* title:	Balcony
+* source:	https://sketchfab.com/3d-models/balcony-ad736f3f1129437891efd81d39586091
+* author:	David Filak (https://sketchfab.com/dfilak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Balcony" (https://sketchfab.com/3d-models/balcony-ad736f3f1129437891efd81d39586091) by David Filak (https://sketchfab.com/dfilak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
